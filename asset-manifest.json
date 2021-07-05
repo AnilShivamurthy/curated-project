@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/curatedapp/static/css/main.b21e979f.chunk.css",
+    "main.js": "/curatedapp/static/js/main.a6cbb6fb.chunk.js",
+    "main.js.map": "/curatedapp/static/js/main.a6cbb6fb.chunk.js.map",
+    "runtime-main.js": "/curatedapp/static/js/runtime-main.4685c717.js",
+    "runtime-main.js.map": "/curatedapp/static/js/runtime-main.4685c717.js.map",
+    "static/js/2.91833c2d.chunk.js": "/curatedapp/static/js/2.91833c2d.chunk.js",
+    "static/js/2.91833c2d.chunk.js.map": "/curatedapp/static/js/2.91833c2d.chunk.js.map",
+    "static/js/3.c18c94f7.chunk.js": "/curatedapp/static/js/3.c18c94f7.chunk.js",
+    "static/js/3.c18c94f7.chunk.js.map": "/curatedapp/static/js/3.c18c94f7.chunk.js.map",
+    "index.html": "/curatedapp/index.html",
+    "static/css/main.b21e979f.chunk.css.map": "/curatedapp/static/css/main.b21e979f.chunk.css.map",
+    "static/js/2.91833c2d.chunk.js.LICENSE.txt": "/curatedapp/static/js/2.91833c2d.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/curatedapp/static/media/Background.afc5b372.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4685c717.js",
+    "static/js/2.91833c2d.chunk.js",
+    "static/css/main.b21e979f.chunk.css",
+    "static/js/main.a6cbb6fb.chunk.js"
+  ]
+}
