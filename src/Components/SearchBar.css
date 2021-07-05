@@ -7,9 +7,21 @@
   background-size: cover;
 }
 
+@media only screen and (max-width: 600px) {
+  .searchbar {
+    height: 400px;
+  }
+}
+
 .search-content {
   text-align: center;
   padding-top: 18%;
+}
+
+@media only screen and (max-width: 600px) {
+  .search-content {
+    padding-top: 50%;
+  }
 }
 
 .searchitems {
@@ -29,6 +41,12 @@
   color: white;
   width: 70px;
   font-weight: 600;
+}
+
+@media only screen and (max-width: 600px) {
+  .searchButton {
+   margin-top: 15px;
+  }
 }
 
 ::-webkit-input-placeholder {
