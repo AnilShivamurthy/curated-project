@@ -1,0 +1,54 @@
+.searchbar {
+  background-image: url("../Images/Background.jpeg");
+  width: 100%;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.search-content {
+  text-align: center;
+  padding-top: 18%;
+}
+
+.searchitems {
+  border-radius: 5px;
+  padding-left: 8px;
+  height: 30px;
+  width: 300px;
+  border: 1px solid white;
+  margin-right: 4px;
+}
+
+.searchButton {
+  height: 32px;
+  border: 1px solid #fe5000;
+  background-color: #fe5000;
+  border-radius: 5px;
+  color: white;
+  width: 70px;
+  font-weight: 600;
+}
+
+::-webkit-input-placeholder {
+  color: #fe5000;
+  font-weight: 600;
+}
+
+:-moz-placeholder {
+  /* Firefox 18- */
+  color: #fe5000;
+  font-weight: 600;
+}
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #fe5000;
+  font-weight: 600;
+}
+
+:-ms-input-placeholder {
+  color: #fe5000;
+  font-weight: 600;
+}
